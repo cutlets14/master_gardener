@@ -19,3 +19,6 @@
 
 ## Binomial Nomenclature
 - Two-part name for every species including the genus and species name of a given species.
+
+## Reference
+1. https://www.youtube.com/watch?v=F38BmgPcZ_I
