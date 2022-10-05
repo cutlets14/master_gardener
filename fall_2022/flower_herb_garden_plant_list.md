@@ -27,7 +27,7 @@
 * Companion herbs:
    * Apple mint/Rutgers Passion Basil/Purple nightshade (need to ask for seeds)
    * Rosemary/Lavender
-   * Dill/Bassicas
+   * Dill/Brassicas
 
 ### References
 * Herbs in Magic and Alchemy - https://www.radiantlunatic.com/wp-content/uploads/2013/10/HERBS-IN-MAGIC-AND-ALCHEMY-TECHNIQUES-FROM-ANCIENT-HERBAL-LORE-C.-L.-ZALEWSKI.pdf
