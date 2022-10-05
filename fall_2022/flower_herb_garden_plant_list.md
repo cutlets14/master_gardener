@@ -18,7 +18,7 @@
 * Herbs
 * Gnome's appearance - red pointy hat, moustache, beard
 
-### Plants short list - common name followed by scientific name
+### Plants shortlist - common name followed by scientific name
 * Love-lies-bleeding - Amaranthus caudatus
 * Black Magic - Colocasia esculenta
 * Blue Giant Hyssop - Agastache foeniculum
@@ -29,7 +29,6 @@
    * Rosemary/Lavender
    * Dill/Bassicas
 
-
-### References:
+### References
 * Herbs in Magic and Alchemy - https://www.radiantlunatic.com/wp-content/uploads/2013/10/HERBS-IN-MAGIC-AND-ALCHEMY-TECHNIQUES-FROM-ANCIENT-HERBAL-LORE-C.-L.-ZALEWSKI.pdf
   * wild stuff
