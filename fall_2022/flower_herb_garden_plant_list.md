@@ -10,7 +10,7 @@
 * Must take into the size of the fully-grown plant - both width and height - in determining how many plans are needed
 
 ### What's a gnome?
-* A mythological creature and dimunitive spirit in Renaissance magic and alchemy first introduced by Paracelsus (Swiss physician, alchemist, lay theologian, and philosopher of German renaissance).
+* A mythological creature and diminutive spirit in Renaissance magic and alchemy first introduced by Paracelsus (Swiss physician, alchemist, lay theologian, and philosopher of German renaissance).
 * A small humanoid creature that lives underground.
 
 ### Potential themes
