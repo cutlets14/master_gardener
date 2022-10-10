@@ -43,6 +43,13 @@ Maintain a quality landscape by preventing pest problems and minimizing the use 
 5. Pesticide use
    1. Spot treat
    2. Avoid using pesticides that have a residual
+   3. Key considerations:
+      1. Selection depends on the pest and the plant
+      2. Select products with lower toxicity (relative)
+         1. Caution - lower toxicity
+         2. Warning
+         3. Danger - most toxic
+      3. Timing is crucial
 
 ### IPM Monitoring Supplies
 1. 5 gallon bucket or backpack
@@ -69,3 +76,8 @@ Maintain a quality landscape by preventing pest problems and minimizing the use 
 - Mulch after the ground freezes
   - Mulch keeps soil temp constant preventing cycles of soil expansion and contraction
 - Protect small shrubs with wind breaks
+
+### Predicting pest and disease problems
+- Life begins at fifty!
+- Growing degree days - used to predict when certain insect problems start to occur
+  - GDD defined as with temp. defined in F = (maximum temperature + minimum temperature)/2
